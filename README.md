@@ -48,10 +48,3 @@ jupyter notebook notebooks/DefineAndSolveMLProblem.ipynb
 ## 📘 Documentation
 Detailed methodology and results are included in `docs/`.
 
----
-
-## 🤝 Community & Collaboration
-- Open to collaborations in NLP and sentiment analysis projects.
-- Contributions, pull requests, and issues are welcome.
-
----
